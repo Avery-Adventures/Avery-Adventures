@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Avery-Adventures
-- 📫 How to reach me person.who.adventures@gmail.com
+- 📫 How to reach me | person.who.adventures@gmail.com
+- #️⃣ My Instagram is | person.who.adventures
 
 <!---
 Avery-Adventures/Avery-Adventures is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
